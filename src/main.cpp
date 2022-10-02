@@ -5,7 +5,7 @@
 //#define AP
 #ifdef AP
 const char *ssid = "XIAO_ESP32C3";
-static const char SERVER[] = "192.168.4.2";
+static const char SERVER[] = "192.168.4.2"; 
 #endif
 
 #define CLI
